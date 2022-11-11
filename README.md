@@ -1,2 +1,0 @@
-# Kazah
-HTML-CSS
